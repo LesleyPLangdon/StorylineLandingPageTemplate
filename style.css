@@ -16,7 +16,7 @@
 }
 
 body {
-    background-color: #fff;
+    background-color: var(--ltyellow);
     color: var(--shadow);
     line-height: 1.6;
 }
